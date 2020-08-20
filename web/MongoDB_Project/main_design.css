@@ -1,0 +1,26 @@
+.top{
+  height: 50%;
+}
+.bottom{
+  width: 20%;
+  height: 20%;
+}
+.btn{
+  width:30%;
+}
+
+.labelKor{
+  width:300px;
+  height:300px;
+  /* vertical-align: text-top; */
+}
+
+.labelEng{
+  width:300px;
+  height:300px;
+  vertical-align: text-top;
+}
+
+body{
+  align-items: center;
+}
